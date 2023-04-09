@@ -19,6 +19,11 @@ packeges
   - VLC
   - Android Studio
   - X Code
+  - Vs Code
+  - Sublime Text
+  - Docker
+  - Dbeaver
+  - Discord
   - Java
   - Flutter
   

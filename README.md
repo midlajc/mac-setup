@@ -8,6 +8,7 @@ packeges
   - Stats
   - Rectangle
   - keep me awake
+  - Alt Tab
   - app cleaner
   - brew 
   - iterm

@@ -26,4 +26,9 @@ packeges
   - Discord
   - Java
   - Flutter
+  - Macccy
+  - Monitor Control
+  - Shottr
+  - Drop Zone 4
+  - Be Focused Focus Time
   

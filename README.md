@@ -31,4 +31,6 @@ packeges
   - Shottr
   - Drop Zone 4
   - Be Focused Focus Time
+  - Notion
+  - Figma
   

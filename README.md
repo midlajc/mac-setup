@@ -23,6 +23,7 @@ packeges
   - Sublime Text
   - Docker
   - Dbeaver
+  - MongoDB Compass
   - Discord
   - Java
   - Flutter

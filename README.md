@@ -15,7 +15,7 @@ packeges
   - nvm
   - oh my zsh
     - powerlevel10k
-  - Android File Transfer
+  - Open MTP
   - VLC
   - Android Studio
   - X Code
@@ -34,4 +34,8 @@ packeges
   - Be Focused Focus Time
   - Notion
   - Figma
+  - Parsify
+  - FileZilla
+  - NearDrop
+  - LibreOffice
   

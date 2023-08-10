@@ -38,4 +38,5 @@ packeges
   - FileZilla
   - NearDrop
   - LibreOffice
+  - Fliqlo
   

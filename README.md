@@ -15,6 +15,7 @@ packeges
   - nvm
   - oh my zsh
     - powerlevel10k
+    - zsh-autosuggestions
   - Open MTP
   - VLC
   - Android Studio
